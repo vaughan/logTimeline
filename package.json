@@ -1,0 +1,27 @@
+{
+  "name": "logtimeline",
+  "version": "1.0.0",
+  "description": "show logs on timeline",
+  "main": "index.html",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaughan/logTimeline.git"
+  },
+  "keywords": [
+    "logs",
+    "timeline"
+  ],
+  "author": "Vaughan Perry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaughan/logTimeline/issues"
+  },
+  "homepage": "https://github.com/vaughan/logTimeline#readme"
+}
